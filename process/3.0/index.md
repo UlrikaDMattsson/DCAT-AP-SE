@@ -17,6 +17,21 @@ Vi siktar på att ha fyra möten som är planerade att ungefär innefatta följa
 - Fjärde mötet 30/5 kl. 10-12 - Beslut
 
 ## Referensgrupp
-Referensgruppen är listad i bokstavsordning.
+Bolagsverket: Benny Lund
+Digg: Ulrika Domellöf Mattsson, Mattias Ekhem, Matthias Palmér
+E-hälsomyndigheten: Manne Andersson
+Lantmäteriet: Fredrik Persäter
+Naturvårdsverket: Cilla Öhnfeldt
+Riksarkivet: Fredrik Emanuelsson
+Riksantikvarieämbetet: Markus Gylling, Marcus Smith
+SCB: Susanne Gullberg Brännström 
+SGU: Tomas Lindberg
+Skolverket: Leon Lindbäck
+SKR:  Johanna Fröjdenlund Runarson
+SND: Olof Olsson 
+Svenska kraftnät: Edris Yaghob
+Trafikverket: Lars Näslund
+Töreboda Kommun: Tomas Monsén
+Västra Götalandsregionen: Fredrik Eriksson, Ricardo Sanchez Curiel  
 
 TODO - efter bekräftelse från deltagarna.
