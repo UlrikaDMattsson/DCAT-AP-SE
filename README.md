@@ -1,13 +1,13 @@
 # DCAT-AP-SE
 
-In this repository we maintain the Swedish adaption to DCAT-AP, referred to as DCAT-AP-SE. The specification is maintained by [Agency for digital government (DIGG)](https://www.digg.se/en), you will find the latest version of the documentation on [docs.dataportal.se/dcat](https://docs.dataportal.se/dcat/). Please note only the [formal specification document](https://docs.dataportal.se/dcat/en/) is available in english at this time.
+In this repository we maintain the Swedish adaption to DCAT-AP, referred to as DCAT-AP-SE. The specification is maintained by [Agency for digital government (Digg)](https://www.digg.se/en), you will find the latest version of the documentation on [docs.dataportal.se/dcat](https://docs.dataportal.se/dcat/). Please note only the [formal specification document](https://docs.dataportal.se/dcat/en/) is available in english at this time.
 
 I det här Github-arkivet hanterar vi den svenska anpassningen till DCAT-AP som benämns DCAT-AP-SE. Specifikationen förvaltas av [Myndigheten för digital förvaltning (DIGG)](https://www.digg.se) och aktuell dokumentation finner ni på [docs.dataportal.se/dcat](https://docs.dataportal.se/dcat/).
 
-Under våren 2024 påbörjas ett arbete med att uppdatera till version 3.0 av DCAT-AP. Se de olika versionerna och tillhörande arbetsprocesser:
+Under 2024 genomfördes ett arbete med att uppdatera till version 3.0 av DCAT-AP. Se de olika versionerna och tillhörande arbetsprocesser:
 
-* [Senaste versionen, utkast](https://docs.dataportal.se/dcat/sv/) kommer under våren uppdateras som en del av arbetet med att uppdatera till version 3.0. Se [arbetsprocess](process/3.0/index.md).
-* [Senaste stabila versionen, 2.2.0](https://docs.dataportal.se/dcat/2.0.0/sv/) togs fram under hösten 2023 och början på våren 2024 innefattande i huvudsak stöd för värdefulla datamängder las till.
+* [Senaste stabila versionen](https://docs.dataportal.se/dcat/sv/) togs fram 2024 med fokus på dataserier. Se [arbetsprocess](process/3.0/index.md).
+* [Versionen, 2.2.0](https://docs.dataportal.se/dcat/2.0.0/sv/) togs fram under hösten 2023 och början på våren 2024 innefattande i huvudsak stöd för värdefulla datamängder las till.
 * [Version 2.0.0](https://docs.dataportal.se/dcat/2.2.0/sv) togs fram hösten 2019 och våren 2020. Se [arbetsprocess](process/index.md).
 
 ## Hur man bidrar / ger återkoppling
